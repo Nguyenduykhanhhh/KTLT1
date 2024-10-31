@@ -1,1 +1,9 @@
 
+def conver_data():
+print("-----THÔNG TIN SINH VIÊN-----")
+print(f"họ và tên: {ho_va_ten} (String)")
+print(f"Ngày sinh: {ngay_sinh} (String)")
+    <?m2e execute onConfiguration?>
+print(f"Điểm tổng kết: {diem_tong_ket} (Float)")
+print(f"Tuổi: {tuoi} (Int)")
+print("-----HẾT-----")
